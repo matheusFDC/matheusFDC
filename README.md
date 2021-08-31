@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**matheusFDC/matheusFDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Matheus, I am currently studying Computer Science and I am in the second semester, and look for an internship or trainee.
 
-Here are some ideas to get you started:
+🖥️ I’m currently learning Java and Angular, on Santander Bootcamp | Fullstack Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎂 I’m 18 years old.
+
+<div>
+  <a href="https://github.com/matheusFDC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusFDC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusFDC&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
