@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-my name is Matheus, I am currently studying Computer Science, I am in the second semester, looking for an internship or trainee.
+My name is Matheus, I am currently studying Computer Science, I am in the second semester, looking for an internship or trainee.
 
 🖥️ I’m currently learning Java and Angular, on Santander Bootcamp | Fullstack Developer!
 
