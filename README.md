@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-My name is Matheus, I am currently studying Computer Science in the 2nd semester, looking for an internship or trainee.
-
-🖥️ I’m currently learning Java and Angular, on Santander Bootcamp | Fullstack Developer!
+🖥 My name is Matheus, I am currently studying Computer Science in the 2nd semester, looking for an internship or trainee.
+  
+  Experience in Java, Angular, HTML5+CSS, JavaScript and relational databases.
+  Notions of Node.js, TypeScript, Spring Boot, Spring Cloud, Scrum, Microservices and Hibernate. 
 
 🎂 I’m 18 years old.
 
