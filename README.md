@@ -3,7 +3,7 @@
 My name is Matheus, I am currently studying Computer Science in the 2nd semester, looking for an internship or trainee.
   
   🖥 Experience in Java, Angular, HTML5, CSS3, JavaScript and relational databases.
-  Notions of Node.js, TypeScript, Spring Boot, Spring Cloud, Scrum, Microservices and Hibernate. 
+  Notions of TypeScript, Spring Boot, Spring Cloud, Scrum, Microservices and Hibernate. 
 
 🎂 I’m 18 years old.
 
@@ -13,7 +13,7 @@ My name is Matheus, I am currently studying Computer Science in the 2nd semester
   <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mat-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Mat-Java" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
-</div>
+</div> <br>
 
 <div>
   <a href="https://github.com/matheusFDC">
@@ -24,6 +24,12 @@ My name is Matheus, I am currently studying Computer Science in the 2nd semester
 <div>
   <a href = "mailto:feitosa.matheus3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>             <a href="https://www.linkedin.com/in/matheusfeitosac/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+  
+### __LANGUAGES__
+</div>
+<div style="display: inline-block">
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+</div>
 
 
