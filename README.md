@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-My name is Matheus, I am currently studying Computer Science in the 2nd semester, looking for an internship or trainee.
+My name is Matheus, I’m 18 years old, currently studying Computer Science in the 2nd semester, looking for an internship or trainee.
   
   🖥 Experience in Java, Angular, HTML5, CSS3, JavaScript and relational databases.
   Notions of TypeScript, Spring Boot, Spring Cloud, Scrum, Microservices and Hibernate. 
-
-🎂 I’m 18 years old.
 
 <div>
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
