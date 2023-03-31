@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matheus, I’m 18 years old, currently studying Computer Science in the 2nd semester, looking for an internship or trainee.
+My name is Matheus, I’m 198 years old, currently studying Computer Science in the 5th semester, currently a Junior Developer in A5 Solutions.
   
   🖥 Experience in Java, Angular, HTML5, CSS3, JavaScript and relational databases.
   Notions of TypeScript, Spring Boot, Spring Cloud, Scrum, Microservices and Hibernate. 
